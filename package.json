@@ -1,0 +1,22 @@
+{
+  "name": "namste_react",
+  "version": "1.0.0",
+  "description": "this namste react",
+  "scripts": {
+    "start": "parcel index2.html",
+    "build": "Parcel build index2.html",
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "namste"
+  ],
+  "author": "lalit",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  },
+  "dependencies": {
+    "react-dom": "^18.2.0"
+  }
+}
